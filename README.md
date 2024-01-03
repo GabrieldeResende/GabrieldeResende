@@ -2,7 +2,7 @@
 <h2 align="center">Sobre Mim</h2>
 <p>Tenho 25 anos, sou formado em Analise e Desenvolvimento de Sistemas</p>
 <p>Desenvolvedor Front-end, Back-end e Design UX/UI, sempre tentando aprender mais e aplicar meus conhecimentos</p>
-<p>Meus hobbies favoritos são jogar, assistir series e animes e tocar violão</p>
+<p>Meus hobbies favoritos são jogar, assistir series, animes e tocar violão</p>
 <p>Sempre estudando e aprendendo cada dia mais, meus projetos estão visiveis no meu Github. Fique a vontade para entrar em contato comigo!!!!</p>
 <h2>
 <!-- <h2 align="center">Linguagens e Ferramentas</h2> -->
